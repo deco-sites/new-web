@@ -1,5 +1,7 @@
 {
   "imports": {
+    "deco-sites/new-web/": "./",
+
     "deco-sites/bf-onserp/": "./",
 
     "$store/": "./",
